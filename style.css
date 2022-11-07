@@ -1,13 +1,16 @@
 * {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    background-color:turquoise;
+    /* background-color:turquoise; */
 }
 li, h2 {
     background-color:white;
     color: brown;
-    text-align: left;
+    text-align: center;
 }
 li {
     font-style:italic;
+    margin-left: 600px;
+    margin-right:600px;
+    text-align:left;
 }
